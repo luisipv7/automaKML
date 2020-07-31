@@ -1,0 +1,4095 @@
+{
+  "kml": {
+    "xmlns": "http://www.opengis.net/kml/2.2",
+    "xmlns:gx": "http://www.google.com/kml/ext/2.2",
+    "xmlns:kml": "http://www.opengis.net/kml/2.2",
+    "xmlns:atom": "http://www.w3.org/2005/Atom",
+    "Document": {
+      "name": "teste.kml",
+      "Style": [
+        {
+          "id": "sh_donut0000",
+          "IconStyle": {
+            "color": "ffff0000",
+            "scale": "1.16666",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin002",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "PolyStyle": {
+            "color": "66ffffff"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin11110",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sn_square001",
+          "IconStyle": {
+            "color": "ff0000ff",
+            "scale": "0.8",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/square.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff0000ff",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_donut002",
+          "IconStyle": {
+            "color": "ffff0000",
+            "scale": "1.16666",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin21",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin110",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ff00ff00",
+            "width": "2.5"
+          }
+        },
+        {
+          "id": "sn_donut12",
+          "IconStyle": {
+            "color": "ffff0000",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_donut65100",
+          "IconStyle": {
+            "color": "ffff0000",
+            "scale": "1.16666",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "s_ylw-pushpin102",
+          "IconStyle": {
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LabelStyle": {
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_square200",
+          "IconStyle": {
+            "color": "ff0000ff",
+            "scale": "0.8",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/square.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff0000ff",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_square101",
+          "IconStyle": {
+            "color": "ff0000ff",
+            "scale": "0.933332",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/square.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff0000ff",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_square21",
+          "IconStyle": {
+            "color": "ff0000ff",
+            "scale": "0.8",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/square.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff0000ff",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin24311",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ff00ff00",
+            "width": "2.5"
+          }
+        },
+        {
+          "id": "sn_ranger_station",
+          "IconStyle": {
+            "scale": "1.2",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png"
+            },
+            "hotSpot": {
+              "x": "0.5",
+              "y": "0",
+              "xunits": "fraction",
+              "yunits": "fraction"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff00ffff",
+            "scale": "0.8"
+          }
+        },
+        {
+          "id": "sn_donut931000",
+          "IconStyle": {
+            "color": "ffff0000",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_donut000",
+          "IconStyle": {
+            "color": "ffff0000",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_donut21",
+          "IconStyle": {
+            "color": "ffff0000",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_donut65101",
+          "IconStyle": {
+            "color": "ffff0000",
+            "scale": "1.16666",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin200",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ff00ff00",
+            "width": "2.5"
+          }
+        },
+        {
+          "id": "sh_square100",
+          "IconStyle": {
+            "color": "ff0000ff",
+            "scale": "0.933332",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/square.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff0000ff",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin2431",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ff00ff00",
+            "width": "2.5"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin231",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ff00ff00",
+            "width": "2.5"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin5",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin1",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin32",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "s_ylw-pushpin201310",
+          "IconStyle": {
+            "color": "ff000000",
+            "scale": "0.8",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/triangle.png"
+            }
+          },
+          "LabelStyle": {
+            "scale": "0.6"
+          }
+        },
+        {
+          "id": "sh_donut651",
+          "IconStyle": {
+            "color": "ffff0000",
+            "scale": "1.16666",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin233",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sn_donut11",
+          "IconStyle": {
+            "color": "ffff0000",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "s_ylw-pushpin20131",
+          "IconStyle": {
+            "color": "ff000000",
+            "scale": "0.8",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/triangle.png"
+            }
+          },
+          "LabelStyle": {
+            "scale": "0.6"
+          }
+        },
+        {
+          "id": "sn_donut93100",
+          "IconStyle": {
+            "color": "ffff0000",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_donut100",
+          "IconStyle": {
+            "color": "ffff0000",
+            "scale": "1.16666",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin7",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin2120",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ff00194d",
+            "width": "2"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin70",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ff00ff00",
+            "width": "2.5"
+          }
+        },
+        {
+          "id": "sh_donut6032",
+          "IconStyle": {
+            "color": "ff0000ff",
+            "scale": "0.933332",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/square.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff0000ff",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_donut30",
+          "IconStyle": {
+            "color": "ffff0000",
+            "scale": "1.16666",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_square000",
+          "IconStyle": {
+            "color": "ff0000ff",
+            "scale": "0.933332",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/square.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff0000ff",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin02",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sn_donut7032",
+          "IconStyle": {
+            "color": "ff0000ff",
+            "scale": "0.8",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/square.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff0000ff",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_donut300",
+          "IconStyle": {
+            "color": "ffff0000",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "s_ylw-pushpin_hl20011",
+          "IconStyle": {
+            "scale": "1.18182",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LabelStyle": {
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin2",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffb0b000",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sh_donut001",
+          "IconStyle": {
+            "color": "ffff0000",
+            "scale": "1.16666",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_donut20",
+          "IconStyle": {
+            "color": "ffff0000",
+            "scale": "1.16666",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_square000",
+          "IconStyle": {
+            "color": "ff0000ff",
+            "scale": "0.8",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/square.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff0000ff",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_square12",
+          "IconStyle": {
+            "color": "ff0000ff",
+            "scale": "0.933332",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/square.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff0000ff",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_donut02",
+          "IconStyle": {
+            "color": "ffff0000",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin21",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sh_donut6211",
+          "IconStyle": {
+            "color": "ff00ff00",
+            "scale": "0.933332",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff00ff00",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_donut6111",
+          "IconStyle": {
+            "color": "ff00ff00",
+            "scale": "0.8",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff00ff00",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_ranger_station",
+          "IconStyle": {
+            "scale": "1.4",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png"
+            },
+            "hotSpot": {
+              "x": "0.5",
+              "y": "0",
+              "xunits": "fraction",
+              "yunits": "fraction"
+            }
+          },
+          "LabelStyle": {
+            "color": "ff00ffff",
+            "scale": "0.8"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin8",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sh_donut020",
+          "IconStyle": {
+            "color": "ffff0000",
+            "scale": "1.16666",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_donut301",
+          "IconStyle": {
+            "color": "ffff0000",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin70",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin2311",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ff00ff00",
+            "width": "2.5"
+          }
+        },
+        {
+          "id": "sh_donut40",
+          "IconStyle": {
+            "color": "ffff0000",
+            "scale": "1.16666",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin31",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ff00ff00",
+            "width": "2.5"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin710",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ff00194d",
+            "width": "2"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin2000",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin24310",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ff00ff00",
+            "width": "2.5"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin1",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffb0b000",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin12",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "PolyStyle": {
+            "color": "66ffffff"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin15",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sn_donut010",
+          "IconStyle": {
+            "color": "ffff0000",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_donut100",
+          "IconStyle": {
+            "color": "ffff0000",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sh_donut000",
+          "IconStyle": {
+            "color": "ffff0000",
+            "scale": "1.16666",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_donut931",
+          "IconStyle": {
+            "color": "ffff0000",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/donut.png"
+            }
+          },
+          "LabelStyle": {
+            "color": "ffff5500",
+            "scale": "0.7"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin4",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "s_ylw-pushpin_hl010310",
+          "IconStyle": {
+            "color": "ff000000",
+            "scale": "0.933332",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/triangle.png"
+            }
+          },
+          "LabelStyle": {
+            "scale": "0.6"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin31",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sn_ylw-pushpin11",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin2310",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ff00ff00",
+            "width": "2.5"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin110",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        },
+        {
+          "id": "s_ylw-pushpin_hl01031",
+          "IconStyle": {
+            "color": "ff000000",
+            "scale": "0.933332",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/shapes/triangle.png"
+            }
+          },
+          "LabelStyle": {
+            "scale": "0.6"
+          }
+        },
+        {
+          "id": "sh_ylw-pushpin14",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": {
+              "href": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            },
+            "hotSpot": {
+              "x": "20",
+              "y": "2",
+              "xunits": "pixels",
+              "yunits": "pixels"
+            }
+          },
+          "LineStyle": {
+            "color": "ffffff00",
+            "width": "4"
+          }
+        }
+      ],
+      "StyleMap": [
+        {
+          "id": "msn_ylw-pushpin1421",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin233"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin11110"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin7",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin7"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin14"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut100",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut21"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut20"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin200",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin110"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin31"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut13",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut12"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut002"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin30",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin1"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin2"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut711",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut6111"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut6211"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin1310",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin24310"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin2310"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut20",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut02"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut40"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut00",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut11"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut000"
+            }
+          ]
+        },
+        {
+          "id": "msn_ranger_station",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ranger_station"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ranger_station"
+            }
+          ]
+        },
+        {
+          "id": "msn_square100",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_square200"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_square101"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin1311",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin24311"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin231"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin1",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin4"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin1"
+            }
+          ]
+        },
+        {
+          "id": "m_ylw-pushpin101",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#s_ylw-pushpin102"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#s_ylw-pushpin_hl20011"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin12",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin31"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin2000"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin01",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin21"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin21"
+            }
+          ]
+        },
+        {
+          "id": "m_ylw-pushpin0011310",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#s_ylw-pushpin20131"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#s_ylw-pushpin_hl010310"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin131",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin2431"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin2311"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin000",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin200"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin70"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin03",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin002"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin12"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut01",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut010"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut001"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut21",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut301"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut020"
+            }
+          ]
+        },
+        {
+          "id": "m_ylw-pushpin001131",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#s_ylw-pushpin201310"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#s_ylw-pushpin_hl01031"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut931000",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut931000"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut65100"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin15",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin11"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin32"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin101",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin5"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin02"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut000",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut000"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut0000"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin250",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin2120"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin710"
+            }
+          ]
+        },
+        {
+          "id": "msn_square001",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_square001"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_square100"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin14",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin8"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin15"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut9310",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut93100"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut65101"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut30",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut300"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut30"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut931",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut931"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut651"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut110",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut100"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut100"
+            }
+          ]
+        },
+        {
+          "id": "msn_donut6131",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_donut7032"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_donut6032"
+            }
+          ]
+        },
+        {
+          "id": "msn_square10",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_square21"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_square12"
+            }
+          ]
+        },
+        {
+          "id": "msn_ylw-pushpin6",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_ylw-pushpin70"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_ylw-pushpin110"
+            }
+          ]
+        },
+        {
+          "id": "msn_square000",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_square000"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_square000"
+            }
+          ]
+        }
+      ],
+      "Folder": {
+        "name": "Master Info - Projeto 01",
+        "Folder": [
+          {
+            "name": "Arquivos de Cliente",
+            "Folder": {
+              "name": "REDE RADIO",
+              "Placemark": [
+                {
+                  "name": "Pop Iririu",
+                  "LookAt": {
+                    "longitude": "-48.80908628052887",
+                    "latitude": "-26.28042050990642",
+                    "altitude": "4.505938393065508",
+                    "heading": "0.0001065319792016589",
+                    "tilt": "29.51053242786335",
+                    "range": "288.6235943027025",
+                    "gx:altitudeMode": "relativeToSeaFloor"
+                  },
+                  "styleUrl": "#m_ylw-pushpin101",
+                  "Point": {
+                    "gx:drawOrder": "1",
+                    "coordinates": "-48.80888225699307,-26.28059275685209,0"
+                  }
+                },
+                {
+                  "name": "Pop Vila Parana",
+                  "LookAt": {
+                    "longitude": "-48.79475168728887",
+                    "latitude": "-26.27945158086017",
+                    "altitude": "0",
+                    "heading": "-0.0006167084169954614",
+                    "tilt": "8.056589640903324",
+                    "range": "503.2344804795136",
+                    "gx:altitudeMode": "relativeToSeaFloor"
+                  },
+                  "styleUrl": "#m_ylw-pushpin101",
+                  "Point": {
+                    "gx:drawOrder": "1",
+                    "coordinates": "-48.79629251508096,-26.27885377519233,0"
+                  }
+                },
+                {
+                  "name": "Pop Moinho dos Ventos 1",
+                  "LookAt": {
+                    "longitude": "-48.7867846715635",
+                    "latitude": "-26.28103746604861",
+                    "altitude": "0",
+                    "heading": "2.746018011754073e-05",
+                    "tilt": "29.74765701982539",
+                    "range": "238.7733467824461",
+                    "gx:altitudeMode": "relativeToSeaFloor"
+                  },
+                  "styleUrl": "#m_ylw-pushpin101",
+                  "Point": {
+                    "gx:drawOrder": "1",
+                    "coordinates": "-48.78676507103721,-26.28093887552267,0"
+                  }
+                },
+                {
+                  "name": "Pop Moinho dos Ventos 2",
+                  "LookAt": {
+                    "longitude": "-48.78249605352264",
+                    "latitude": "-26.28545303981137",
+                    "altitude": "0",
+                    "heading": "-0.0001139214566943199",
+                    "tilt": "24.71780590484988",
+                    "range": "294.606010110635",
+                    "gx:altitudeMode": "relativeToSeaFloor"
+                  },
+                  "styleUrl": "#m_ylw-pushpin101",
+                  "Point": {
+                    "gx:drawOrder": "1",
+                    "coordinates": "-48.78259940424766,-26.28509296215743,0"
+                  }
+                },
+                {
+                  "name": "Pop Jardim Iririu",
+                  "LookAt": {
+                    "longitude": "-48.80472319413433",
+                    "latitude": "-26.26541563836805",
+                    "altitude": "0",
+                    "heading": "-0.0003191394288972079",
+                    "tilt": "9.221162808425161",
+                    "range": "663.4855085914627",
+                    "gx:altitudeMode": "relativeToSeaFloor"
+                  },
+                  "styleUrl": "#m_ylw-pushpin101",
+                  "Point": {
+                    "gx:drawOrder": "1",
+                    "coordinates": "-48.80588818006481,-26.26433114149334,0"
+                  }
+                },
+                {
+                  "name": "Possivel Pop",
+                  "LookAt": {
+                    "longitude": "-48.8122478059251",
+                    "latitude": "-26.27773732455143",
+                    "altitude": "0",
+                    "heading": "-0.0005360502626278324",
+                    "tilt": "3.812438789787737",
+                    "range": "3065.158060133259",
+                    "gx:altitudeMode": "relativeToSeaFloor"
+                  },
+                  "styleUrl": "#m_ylw-pushpin101",
+                  "Point": {
+                    "gx:drawOrder": "1",
+                    "coordinates": "-48.81356203765645,-26.27724397157587,0"
+                  }
+                }
+              ]
+            },
+            "Placemark": [
+              {
+                "name": "FASE 1",
+                "styleUrl": "#msn_ylw-pushpin03",
+                "Polygon": {
+                  "tessellate": "1",
+                  "outerBoundaryIs": {
+                    "LinearRing": {
+                      "coordinates": "-48.80271332432078,-26.27799445974959,0 -48.79990593999217,-26.28126368257287,0 -48.8002384405498,-26.28152031057622,0 -48.79887492352083,-26.28311840870541,0 -48.79350525792835,-26.28509691308168,0 -48.79210593687969,-26.28504865995461,0 -48.79355991468009,-26.27890610029737,0 -48.79570696399395,-26.2750290803175,0 -48.80271332432078,-26.27799445974959,0"
+                    }
+                  }
+                }
+              },
+              {
+                "name": "POP-COMERCIAL",
+                "description": "Local onde esta localizado a chegada dos links das operadoras de internet",
+                "LookAt": {
+                  "longitude": "-48.80374057312611",
+                  "latitude": "-26.28353029973299",
+                  "altitude": "0",
+                  "heading": "9.562782393464775e-05",
+                  "tilt": "44.282880254031",
+                  "range": "144.1162062280731",
+                  "gx:altitudeMode": "relativeToSeaFloor"
+                },
+                "styleUrl": "#msn_ranger_station",
+                "Point": {
+                  "gx:drawOrder": "1",
+                  "coordinates": "-48.8039429225144,-26.28349912031077,0"
+                }
+              }
+            ]
+          },
+          {
+            "name": "INFRA DEFAULT",
+            "open": "1",
+            "Folder": [
+              {
+                "name": "FIBRA",
+                "open": "1",
+                "Folder": [
+                  {
+                    "name": "BACKBONE",
+                    "Folder": [
+                      {
+                        "name": "02F",
+                        "description": "CABO AS 80 MINI RA 2F",
+                        "Placemark": {
+                          "name": "23",
+                          "description": "CABO 02F\n01 VIAS LIVRES\n\nF01 - PTCOMERC->POPVILAPARANA \nF02 - LIVRE",
+                          "styleUrl": "#msn_ylw-pushpin250",
+                          "LineString": {
+                            "tessellate": "1",
+                            "coordinates": "-48.79629043340336,-26.2788495208864,0 -48.79623904008437,-26.27882139988,0 -48.79634299720121,-26.27870070722255,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "12F",
+                        "description": "CABO CFOA-SM-AS-80G-12F",
+                        "Placemark": [
+                          {
+                            "name": "52",
+                            "description": "CABO 12F\n11 VIAS LIVRES\n\nF01 - LIVRE\nF02 - LIVRE\nF03 - LIVRE\nF04 - LIVRE\nF05 - LIVRE\nF06 - LIVRE\nF07 - LIVRE\nF08 - LIVRE\nF09 - H.22/23\nF10 - LIVRE\nF11 - LIVRE\nF12 - LIVRE",
+                            "styleUrl": "#msn_ylw-pushpin1421",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79585496712927,-26.27834036644828,0 -48.79547402934468,-26.27802133798921,0"
+                            }
+                          },
+                          {
+                            "name": "273",
+                            "description": "CABO 12F\n00 VIAS LIVRES\n\nF01 - H.30\nF02 - H.20/19\nF03 - H.18/17\nF04 - H.04/03\nF05 - H.02/01\nF06 - H.05/06\nF07 - H.07/08\nF08-  H.55/54\nF09 - H.52/53\nF10 - H.50/51\nF11 - H.48/49\nF12 - H.46/47",
+                            "styleUrl": "#msn_ylw-pushpin1",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79915796824981,-26.28079900285639,0 -48.79888054990271,-26.28062322267076,0 -48.79738689418074,-26.28230024298858,0"
+                            }
+                          },
+                          {
+                            "name": "134",
+                            "description": "CABO 12F\n01 VIAS LIVRES\n\nF01 - LIVRE\nF02 - H.20/19\nF03 - H.18/17\nF04 - H.04/03\nF05 - H.02/01\nF06 - H.05/06\nF07 - H.07/08\nF08-  H.55/54\nF09 - H.52/53\nF10 - H.50/51\nF11 - H.48/49\nF12 - H.46/47",
+                            "styleUrl": "#msn_ylw-pushpin1",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79739668168108,-26.28229227729474,0 -48.79656909580401,-26.2832496370673,0"
+                            }
+                          },
+                          {
+                            "name": "171",
+                            "description": "CABO 12F\n01 VIAS LIVRES\n\nF01 - LIVRE\nF02 - H.19\nF03 - H.18/17\nF04 - H.04/03\nF05 - H.02/01\nF06 - H.05/06\nF07 - H.07/08\nF08-  H.55/54\nF09 - H.52/53\nF10 - H.50/51\nF11 - H.48/49\nF12 - H.46/47",
+                            "styleUrl": "#msn_ylw-pushpin1",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.7965802191589,-26.28323235179346,0 -48.79625127775646,-26.28365715148867,0 -48.79642531495652,-26.28389762277886,0 -48.79569344767021,-26.28423769171804,0"
+                            }
+                          },
+                          {
+                            "name": "190",
+                            "description": "CABO 12F\n02 VIAS LIVRES\n\nF01 - LIVRE\nF02 - LIVRE\nF03 - H.18/17\nF04 - H.04/03\nF05 - H.02/01\nF06 - H.05/06\nF07 - H.07/08\nF08-  H.55/54\nF09 - H.52/53\nF10 - H.50/51\nF11 - H.48/49\nF12 - H.46/47",
+                            "styleUrl": "#msn_ylw-pushpin1",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79570423819846,-26.28423737902127,0 -48.79398495658135,-26.28497285144072,0"
+                            }
+                          },
+                          {
+                            "name": "59",
+                            "description": "CABO 12F\n10 VIAS LIVRES\n\nF01 - LIVRE\nF02 - LIVRE\nF03 - LIVRE\nF04 - LIVRE\nF05 - LIVRE\nF06 - H.24\nF07 - LIVRE\nF08 - LIVRE\nF09 - H.22/23\nF10 - LIVRE\nF11 - LIVRE\nF12 - LIVRE",
+                            "styleUrl": "#msn_ylw-pushpin1421",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79632747253558,-26.27869927113115,0 -48.79587029596366,-26.27835513508277,0"
+                            }
+                          },
+                          {
+                            "name": "153",
+                            "description": "CABO 12F\n07 VIAS LIVRES\n\nF01 - CTO.26.02\nF02 - CTO.26.01\nF03 - LIVRE\nF04 - LIVRE\nF05 - LIVRE\nF06 - H.24\nF07 - LIVRE\nF08 - H.21/25\nF09 - H.22/23\nF10 - LIVRE\nF11 - LIVRE\nF12 - LIVRE",
+                            "styleUrl": "#msn_ylw-pushpin01",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79749684602216,-26.27959011071256,0 -48.79632416172673,-26.27870058593143,0"
+                            }
+                          },
+                          {
+                            "name": "83",
+                            "description": "CABO 12F\n08 VIAS LIVRES\n\nF01 - LIVRE\nF02 - LIVRE\nF03 - LIVRE\nF04 - LIVRE\nF05 - LIVRE\nF06 - H.24\nF07 - H.26/27\nF08 - H.21/25\nF09 - H.22/23\nF10 - LIVRE\nF11 - LIVRE\nF12 - LIVRE",
+                            "styleUrl": "#msn_ylw-pushpin6",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79808521789347,-26.28003227108767,0 -48.79745062566956,-26.2795504143659,0"
+                            }
+                          },
+                          {
+                            "name": "69",
+                            "description": "CABO 12F\n08 VIAS LIVRES\n\nF01 - LIVRE\nF02 - LIVRE\nF03 - LIVRE\nF04 - LIVRE\nF05 - LIVRE\nF06 - H.28/24\nF07 - H.26/27\nF08 - H.21/25\nF09 - H.22/23\nF10 - LIVRE\nF11 - LIVRE\nF12 - LIVRE",
+                            "styleUrl": "#msn_ylw-pushpin6",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79858743686955,-26.28039626696073,0 -48.79805175484254,-26.2800115184539,0"
+                            }
+                          },
+                          {
+                            "name": "74",
+                            "description": "CABO 12F\n06 VIAS LIVRES\n\nF01 - H.30\nF02 - LIVRE\nF03 - LIVRE\nF04 - LIVRE\nF05 - H.29/30\nF06 - H.28/24\nF07 - H.26/27\nF08 - H.21/25\nF09 - H.22/23\nF10 - LIVRE\nF11 - LIVRE\nF12 - LIVRE",
+                            "styleUrl": "#msn_ylw-pushpin12",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79916943307247,-26.28080049581403,0 -48.79858880343241,-26.2803914307421,0"
+                            }
+                          },
+                          {
+                            "name": "46",
+                            "description": "CABO 12F\n04 VIAS LIVRES\n\nF01 - LIVRE\nF02 - LIVRE\nF03 - LIVRE\nF04 - H.31\nF05 - H.29/30\nF06 - H.28/24\nF07 - H.26/27\nF08 - H.21/25\nF09 - H.22/23\nF10 - H.20/19\nF11 - H.18/17\nF12 - LIVRE",
+                            "styleUrl": "#msn_ylw-pushpin14",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.7995283687237,-26.28101897962038,0 -48.79915655976704,-26.28078768997797,0"
+                            }
+                          },
+                          {
+                            "name": "139",
+                            "description": "CABO 12F\n04 VIAS LIVRES\n\nF01 - LIVRE\nF02 - LIVRE\nF03 - LIVRE\nF04 - H.32/31\nF05 - H.29/30\nF06 - H.28/24\nF07 - H.26/27\nF08 - H.21/25\nF09 - H.22/23\nF10 - H.20/19\nF11 - H.18/17\nF12 - LIVRE",
+                            "styleUrl": "#msn_ylw-pushpin14",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.80059809989999,-26.28184844476024,0 -48.79953657093122,-26.28103147730704,0"
+                            }
+                          },
+                          {
+                            "name": "228",
+                            "description": "CABO 12F\n03 VIAS LIVRES\n\nF01 - LIVRE\nF02 - H.09\nF03 - LIVRE\nF04 - H.32/31\nF05 - H.29/30\nF06 - H.28/24\nF07 - H.26/27\nF08 - H.21/25\nF09 - H.22/23\nF10 - H.20/19\nF11 - H.18/17\nF12 - LIVRE",
+                            "styleUrl": "#msn_ylw-pushpin7",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.80213712729477,-26.28317562783005,0 -48.80223698581435,-26.28304814713038,0 -48.80060494625711,-26.28184996855445,0"
+                            }
+                          },
+                          {
+                            "name": "18",
+                            "description": "CABO 12F\n02 VIAS LIVRES\n\nF01 - H.12/11\nF02 - H.10/09\nF03 - LIVRE\nF04 - H.32/31\nF05 - H.29/30\nF06 - H.28/24\nF07 - H.26/27\nF08 - H.21/25\nF09 - H.22/23\nF10 - H.20/19\nF11 - H.18/17\nF12 - LIVRE",
+                            "styleUrl": "#msn_ylw-pushpin101",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.80393912135487,-26.28347549680526,0 -48.80382610822599,-26.28340146719888,0"
+                            }
+                          },
+                          {
+                            "name": "232",
+                            "description": "CABO 12F\n02 VIAS LIVRES\n\nF01 - H.11\nF02 - H.10/09\nF03 - LIVRE\nF04 - H.32/31\nF05 - H.29/30\nF06 - H.28/24\nF07 - H.26/27\nF08 - H.21/25\nF09 - H.22/23\nF10 - H.20/19\nF11 - H.18/17\nF12 - LIVRE",
+                            "styleUrl": "#msn_ylw-pushpin15",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.80382156614828,-26.28339382022343,0 -48.80359874190182,-26.2836214187624,0 -48.80193708818771,-26.28338939924927,0 -48.80213153031993,-26.28318727501519,0"
+                            }
+                          },
+                          {
+                            "name": "656",
+                            "description": "CABO 12F\n03 VIAS LIVRES\n\nF01 - H.04/03\nF02 - H.02/01\nF03 - H.05/06\nF04 - H.07/08\nF05 - H.55/54\nF06 - H.52/53\nF07 - H.50/51\nF08 - H.48/49\nF09 - H.46/47\nF10 - LIVRE\nF11 - LIVRE\nF12 - LIVRE",
+                            "styleUrl": "#msn_ylw-pushpin30",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.80394985347025,-26.28349753465651,0 -48.80381312608634,-26.2834322115558,0 -48.80361764732385,-26.28363800240814,0 -48.80190237243041,-26.28340330194384,0 -48.80221678765991,-26.2830690988518,0 -48.79981297489483,-26.28130044251297,0 -48.79914276499134,-26.28078656765542,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "EMENDAS BACKBONE",
+                        "Folder": {
+                          "name": "CEO BACKBONE 12FO",
+                          "Placemark": [
+                            {
+                              "name": "EB.21/25",
+                              "LookAt": {
+                                "longitude": "-48.7960097990815",
+                                "latitude": "-26.27892171670648",
+                                "altitude": "0",
+                                "heading": "-49.56533465642985",
+                                "tilt": "0",
+                                "range": "225.8421340557165",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut000",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.79632782385955,-26.27868899005815,0"
+                              }
+                            },
+                            {
+                              "name": "EB.22/23",
+                              "LookAt": {
+                                "longitude": "-48.79646110305841",
+                                "latitude": "-26.27849035789334",
+                                "altitude": "0",
+                                "heading": "47.24102777236558",
+                                "tilt": "19.38748754550108",
+                                "range": "672.0501105719281",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut9310",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.79547242983632,-26.27802061550266,0"
+                              }
+                            },
+                            {
+                              "name": "EB.24",
+                              "description": "ok derivacoes",
+                              "LookAt": {
+                                "longitude": "-48.79585620719612",
+                                "latitude": "-26.27810149891394",
+                                "altitude": "0",
+                                "heading": "-32.7518231408488",
+                                "tilt": "0",
+                                "range": "222.8999921033847",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut21",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.79585774122603,-26.2783486629654,0"
+                              }
+                            },
+                            {
+                              "name": "EB.26/27",
+                              "LookAt": {
+                                "longitude": "-48.79646362685168",
+                                "latitude": "-26.27896902271262",
+                                "altitude": "0",
+                                "heading": "-8.054715872778512",
+                                "tilt": "19.14269253263107",
+                                "range": "500.8113829741662",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut30",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.79745563156039,-26.27958621666328,0"
+                              }
+                            },
+                            {
+                              "name": "EB.28",
+                              "description": "ok cabos",
+                              "LookAt": {
+                                "longitude": "-48.79830113648333",
+                                "latitude": "-26.28034104909088",
+                                "altitude": "0",
+                                "heading": "-0.002039980488839918",
+                                "tilt": "45.00000878050687",
+                                "range": "282.1204102748916",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut01",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.79807834770035,-26.28004063630779,0"
+                              }
+                            },
+                            {
+                              "name": "EB.29",
+                              "description": "ok derivaçoes",
+                              "LookAt": {
+                                "longitude": "-48.7983576511928",
+                                "latitude": "-26.28053118272573",
+                                "altitude": "0",
+                                "heading": "-0.002014957783243287",
+                                "tilt": "45.00000737527074",
+                                "range": "281.8992005008556",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut931000",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.79857760636672,-26.28039081517432,0"
+                              }
+                            },
+                            {
+                              "name": "EB.31",
+                              "description": "ok derivacao colocar para dentro possivel rompimento no cabo",
+                              "LookAt": {
+                                "longitude": "-48.7983576511928",
+                                "latitude": "-26.28053118272573",
+                                "altitude": "0",
+                                "heading": "-0.002014957783243287",
+                                "tilt": "45.00000737527074",
+                                "range": "281.8992005008556",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut20",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.79914801310207,-26.28081592571978,0"
+                              }
+                            },
+                            {
+                              "name": "EB.32",
+                              "description": "faltou a derivacao da rua imbuia  que seria da  ct0 32.01",
+                              "LookAt": {
+                                "longitude": "-48.79817097206195",
+                                "latitude": "-26.28227953755545",
+                                "altitude": "0",
+                                "heading": "51.02318827300883",
+                                "tilt": "11.23621117618122",
+                                "range": "1015.996313704777",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut931",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.79952225008946,-26.28103050870488,0"
+                              }
+                            },
+                            {
+                              "name": "EB.09",
+                              "LookAt": {
+                                "longitude": "-48.80154404725715",
+                                "latitude": "-26.28229191722983",
+                                "altitude": "0",
+                                "heading": "-27.09205148095392",
+                                "tilt": "33.61298722257841",
+                                "range": "617.8003061899869",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut00",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.80059194664429,-26.28186692629925,0"
+                              }
+                            },
+                            {
+                              "name": "EB.10/11",
+                              "LookAt": {
+                                "longitude": "-48.80222340899535",
+                                "latitude": "-26.28273914910481",
+                                "altitude": "0",
+                                "heading": "-44.52753105231376",
+                                "tilt": "25.50870866974072",
+                                "range": "190.6854078552229",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut13",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.8021191002882,-26.28321235388129,0"
+                              }
+                            },
+                            {
+                              "name": "EB.12",
+                              "LookAt": {
+                                "longitude": "-48.80338061202592",
+                                "latitude": "-26.28323596986223",
+                                "altitude": "0",
+                                "heading": "-38.41408222458604",
+                                "tilt": "0",
+                                "range": "166.4242974592134",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut00",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.8038113946263,-26.28340180465769,0"
+                              }
+                            },
+                            {
+                              "name": "EB.17/18",
+                              "LookAt": {
+                                "longitude": "-48.79318705415297",
+                                "latitude": "-26.28457812422207",
+                                "altitude": "0",
+                                "heading": "7.553105913229232",
+                                "tilt": "4.726783764356868",
+                                "range": "558.6346587753563",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut9310",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.79399137808823,-26.28498906185005,0"
+                              }
+                            },
+                            {
+                              "name": "EB.19",
+                              "LookAt": {
+                                "longitude": "-48.7948448384325",
+                                "latitude": "-26.28378639473664",
+                                "altitude": "0",
+                                "heading": "31.70369750933232",
+                                "tilt": "9.367648438389113",
+                                "range": "679.3629893633246",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut9310",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.79570033549493,-26.28424054876039,0"
+                              }
+                            },
+                            {
+                              "name": "EB.20",
+                              "LookAt": {
+                                "longitude": "-48.7964196079033",
+                                "latitude": "-26.28255537415476",
+                                "altitude": "0",
+                                "heading": "-0.0006983317234508108",
+                                "tilt": "16.03531826858572",
+                                "range": "615.8362284292698",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut100",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.79660864844998,-26.28325817103054,0"
+                              }
+                            },
+                            {
+                              "name": "EB.30",
+                              "LookAt": {
+                                "longitude": "-48.79729250003676",
+                                "latitude": "-26.28314037486364",
+                                "altitude": "0",
+                                "heading": "-0.000327463745988516",
+                                "tilt": "11.63765288685112",
+                                "range": "752.8142447076079",
+                                "gx:altitudeMode": "relativeToSeaFloor"
+                              },
+                              "styleUrl": "#msn_donut110",
+                              "Point": {
+                                "gx:drawOrder": "1",
+                                "coordinates": "-48.79738918141661,-26.28231321767926,0"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "name": "DERIVAÇÃO",
+                    "description": "CABO CFOA-SM-AS80-RA-6F",
+                    "Folder": [
+                      {
+                        "name": "Rede 17",
+                        "Placemark": {
+                          "name": "555",
+                          "styleUrl": "#msn_ylw-pushpin1311",
+                          "LineString": {
+                            "tessellate": "1",
+                            "coordinates": "-48.79397149548125,-26.28497738247487,0 -48.79356168126495,-26.28508484383084,0 -48.79229083318184,-26.28502193868039,0 -48.7925314793804,-26.283027388958,0 -48.79262314555254,-26.28246047864591,0 -48.79324457523487,-26.28175787167614,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 18",
+                        "Placemark": {
+                          "name": "620",
+                          "styleUrl": "#msn_ylw-pushpin1311",
+                          "LineString": {
+                            "tessellate": "1",
+                            "coordinates": "-48.79398575550759,-26.28497992940894,0 -48.79357201675425,-26.28506634259216,0 -48.79338337653144,-26.28504138950258,0 -48.79347525213753,-26.28425886511864,0 -48.79292712225854,-26.2842021950821,0 -48.79303067005882,-26.28323087298494,0 -48.79313569388123,-26.28278014745878,0 -48.79374919501611,-26.28215596469714,0 -48.79479973815955,-26.28100930473156,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 19",
+                        "Placemark": {
+                          "name": "547",
+                          "styleUrl": "#msn_ylw-pushpin1311",
+                          "LineString": {
+                            "tessellate": "1",
+                            "coordinates": "-48.79570270907633,-26.28423289820115,0 -48.79467531995491,-26.28464498823203,0 -48.79441871358073,-26.2839319598712,0 -48.79429219196638,-26.28357191608485,0 -48.79417923256045,-26.2834818406179,0 -48.79376594219488,-26.28339862118072,0 -48.79379932634591,-26.28317047661703,0 -48.79394520834857,-26.2829557799539,0 -48.79453457644101,-26.28230751319065,0 -48.79507995284826,-26.2831258699077,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 20",
+                        "Placemark": {
+                          "name": "437",
+                          "styleUrl": "#msn_ylw-pushpin1311",
+                          "LineString": {
+                            "tessellate": "1",
+                            "coordinates": "-48.79726016500696,-26.28359747920711,0 -48.79738444558892,-26.2835354539801,0 -48.79695838279314,-26.28280545416367,0 -48.79625516567572,-26.28366117557912,0 -48.7951502805779,-26.2820124772916,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 21",
+                        "Placemark": [
+                          {
+                            "name": "238",
+                            "styleUrl": "#msn_ylw-pushpin131",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79629693104099,-26.27867864163282,0 -48.79476141974565,-26.28031962673127,0"
+                            }
+                          },
+                          {
+                            "name": "179",
+                            "styleUrl": "#msn_ylw-pushpin131",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79516513119279,-26.27910332933174,0 -48.79451392199028,-26.27984492427471,0 -48.79488999934538,-26.28016010095277,0 -48.79475119210088,-26.28032258358372,0"
+                            }
+                          },
+                          {
+                            "name": "154",
+                            "styleUrl": "#msn_ylw-pushpin131",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79582249972934,-26.27993516896249,0 -48.79534856808484,-26.28047557276079,0 -48.7949184771573,-26.28017353098475,0 -48.7947531952843,-26.28032397699204,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 22",
+                        "Placemark": [
+                          {
+                            "name": "357",
+                            "styleUrl": "#msn_ylw-pushpin1311",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79506930905592,-26.2761081204022,0 -48.79453852506442,-26.27728606262542,0 -48.79471446739612,-26.2773822830262,0 -48.79504681048942,-26.27702664066441,0 -48.7959502257926,-26.27600896761638,0"
+                            }
+                          },
+                          {
+                            "name": "153",
+                            "styleUrl": "#msn_ylw-pushpin1311",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79546235320427,-26.2780112060064,0 -48.79516542920218,-26.27773592261132,0 -48.79532569039663,-26.27753818231236,0 -48.79513862862526,-26.27771411316407,0 -48.79470906808152,-26.27738135299854,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 23",
+                        "Placemark": {
+                          "name": "496",
+                          "styleUrl": "#msn_ylw-pushpin1311",
+                          "LineString": {
+                            "tessellate": "1",
+                            "coordinates": "-48.79473135880345,-26.27882753639723,0 -48.79567034937742,-26.27779688569297,0 -48.79661437027781,-26.27676567538657,0 -48.79713747420932,-26.27618938074664,0 -48.7967583865857,-26.27589836834729,0 -48.79634251846361,-26.27638683129014,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 24",
+                        "Placemark": [
+                          {
+                            "name": "321",
+                            "styleUrl": "#msn_ylw-pushpin1311",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79585412680606,-26.27834657821211,0 -48.79701667174879,-26.27705194867633,0 -48.79789002156402,-26.27610348704548,0"
+                            }
+                          },
+                          {
+                            "name": "74",
+                            "styleUrl": "#msn_ylw-pushpin1311",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79725779427324,-26.27598411993205,0 -48.7971656337278,-26.27610443723647,0 -48.7972051387823,-26.27624987049947,0 -48.79752364803471,-26.2764878286766,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 25",
+                        "Placemark": {
+                          "name": "456",
+                          "styleUrl": "#msn_ylw-pushpin000",
+                          "LineString": {
+                            "tessellate": "1",
+                            "coordinates": "-48.79632411220425,-26.27865501750222,0 -48.79732270643055,-26.27746736102706,0 -48.79820360488542,-26.27647414292281,0 -48.79792634749341,-26.27681373847688,0 -48.79830640490345,-26.27707218888895,0 -48.79868987219305,-26.27670310275268,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 26",
+                        "Placemark": [
+                          {
+                            "name": "218",
+                            "styleUrl": "#msn_ylw-pushpin1310",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79775663011829,-26.27782184964884,0 -48.79687204748242,-26.27880596886183,0 -48.7966973150344,-26.27898222768681,0 -48.79630653299879,-26.27867490680795,0"
+                            }
+                          },
+                          {
+                            "name": "277",
+                            "styleUrl": "#msn_ylw-pushpin1310",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79567575828603,-26.28107018388949,0 -48.79719350752533,-26.27937933111668,0 -48.79748544389346,-26.27956653829394,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 27",
+                        "Placemark": [
+                          {
+                            "name": "358",
+                            "styleUrl": "#msn_ylw-pushpin1310",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79745602062798,-26.27958371845154,0 -48.79725054437225,-26.27935723090113,0 -48.79847959421362,-26.27799089102809,0 -48.7992872440709,-26.27706588289911,0"
+                            }
+                          },
+                          {
+                            "name": "209",
+                            "styleUrl": "#msn_ylw-pushpin131",
+                            "LineString": {
+                              "tessellate": "1",
+                              "coordinates": "-48.79997030981155,-26.2773547711911,0 -48.799463394847,-26.2779017628078,0 -48.798914494141,-26.27752681230462,0 -48.7992803367005,-26.2770797891406,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 28",
+                        "Placemark": {
+                          "name": "571",
+                          "styleUrl": "#msn_ylw-pushpin200",
+                          "LineString": {
+                            "tessellate": "1",
+                            "coordinates": "-48.79601632711625,-26.28170251916913,0 -48.7969433328752,-26.28068249176319,0 -48.79775179664111,-26.27979827064858,0 -48.79810279000005,-26.28003092692347,0 -48.79778771155942,-26.27976107072389,0 -48.79912991520566,-26.27829184100935,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 29",
+                        "Placemark": {
+                          "name": "521",
+                          "styleUrl": "#msn_ylw-pushpin200",
+                          "LineString": {
+                            "tessellate": "1",
+                            "coordinates": "-48.79769426271805,-26.28089204835894,0 -48.79828368101748,-26.28021022148606,0 -48.79855277369237,-26.28038023776958,0 -48.79833807830783,-26.28016921237698,0 -48.80061102918149,-26.27764429436812,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 30",
+                        "Placemark": {
+                          "name": "429",
+                          "styleUrl": "#msn_ylw-pushpin1311",
+                          "LineString": {
+                            "tessellate": "1",
+                            "coordinates": "-48.79665633132836,-26.28202491436337,0 -48.79693455008623,-26.28171077176432,0 -48.79752531581948,-26.28213987766594,0 -48.79738969274884,-26.28227527182425,0 -48.79754664846014,-26.28217232001402,0 -48.79804219837978,-26.28256044299128,0 -48.79776075357645,-26.28284753636006,0 -48.79805907232001,-26.2825839807252,0 -48.79879880118374,-26.28174149996054,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 31",
+                        "Placemark": {
+                          "name": "537",
+                          "styleUrl": "#msn_ylw-pushpin200",
+                          "LineString": {
+                            "tessellate": "1",
+                            "coordinates": "-48.79823863133267,-26.28132063762939,0 -48.79887372223686,-26.28062172738568,0 -48.79917076739572,-26.28080297346449,0 -48.79890879485343,-26.28057731110147,0 -48.79919662184024,-26.28026979839406,0 -48.80026537462472,-26.27911882442721,0 -48.80121570238667,-26.2780256269443,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 32",
+                        "Placemark": {
+                          "name": "562",
+                          "styleUrl": "#msn_ylw-pushpin1311",
+                          "LineString": {
+                            "tessellate": "1",
+                            "coordinates": "-48.79931518940698,-26.28227267732591,0 -48.80004639304462,-26.28147230029317,0 -48.79945762852469,-26.28102103125358,0 -48.80079609221423,-26.27953459510068,0 -48.8017912136471,-26.27842879219366,0"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "CAIXAS",
+                "open": "1",
+                "Folder": [
+                  {
+                    "name": "EMENDA",
+                    "open": "1",
+                    "Folder": [
+                      {
+                        "name": "Rede 24",
+                        "Placemark": {
+                          "Camera": {
+                            "longitude": "-48.79761212678556",
+                            "latitude": "-26.27638960457332",
+                            "altitude": "336.3388221353674",
+                            "heading": "-140.598153221548",
+                            "tilt": "5.2554094701801",
+                            "roll": "-3.853864415797956",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_donut711",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79753473623121,-26.27647991833138,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 21"
+                      },
+                      {
+                        "name": "Rede 22",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.79478716756711",
+                            "latitude": "-26.27735984433399",
+                            "altitude": "0",
+                            "heading": "-41.00147665698071",
+                            "tilt": "0",
+                            "range": "180.3551243903055",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_donut711",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79471426313713,-26.27738072667905,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 27"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "HUB",
+                    "description": "SPLITTER PLC DE 1º NIVEL\nBALANCEADO 1x4",
+                    "Folder": [
+                      {
+                        "name": "Rede 17",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.79318705415297",
+                            "latitude": "-26.28457812422207",
+                            "altitude": "0",
+                            "heading": "7.553105913229232",
+                            "tilt": "4.726783764356868",
+                            "range": "558.6346587753563",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_donut6131",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79399137808823,-26.28498906185005,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 18",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.79318705415297",
+                            "latitude": "-26.28457812422207",
+                            "altitude": "0",
+                            "heading": "7.553105913229232",
+                            "tilt": "4.726783764356868",
+                            "range": "558.6346587753563",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_donut6131",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79399137808823,-26.28498906185005,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 19",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.7948448384325",
+                            "latitude": "-26.28378639473664",
+                            "altitude": "0",
+                            "heading": "31.70369750933232",
+                            "tilt": "9.367648438389113",
+                            "range": "679.3629893633246",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_donut6131",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79570033549493,-26.28424054876039,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 20",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.79653519727289",
+                            "latitude": "-26.28235910431152",
+                            "altitude": "0",
+                            "heading": "-0.0006471489152277767",
+                            "tilt": "16.03531826858572",
+                            "range": "615.8362284275092",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_square000",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79661460531107,-26.28325083993833,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 21",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.7960097990815",
+                            "latitude": "-26.27892171670648",
+                            "altitude": "0",
+                            "heading": "-49.56533465642985",
+                            "tilt": "0",
+                            "range": "225.8421340557165",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_donut6131",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79632782385955,-26.27868899005815,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 22",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.79646110305841",
+                            "latitude": "-26.27849035789334",
+                            "altitude": "0",
+                            "heading": "47.24102777236558",
+                            "tilt": "19.38748754550108",
+                            "range": "672.0501105719281",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_donut6131",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79547242983632,-26.27802061550266,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 23",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.79646110305841",
+                            "latitude": "-26.27849035789334",
+                            "altitude": "0",
+                            "heading": "47.24102777236558",
+                            "tilt": "19.38748754550108",
+                            "range": "672.0501105719281",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_donut6131",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79547242983632,-26.27802061550266,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 24",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.79585620719612",
+                            "latitude": "-26.27810149891394",
+                            "altitude": "0",
+                            "heading": "-32.7518231408488",
+                            "tilt": "0",
+                            "range": "222.8999921033847",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_donut6131",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79585774122603,-26.2783486629654,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 25",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.7960097990815",
+                            "latitude": "-26.27892171670648",
+                            "altitude": "0",
+                            "heading": "-49.56533465642985",
+                            "tilt": "0",
+                            "range": "225.8421340557165",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_donut6131",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79632782385955,-26.27868899005815,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 26",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.79646362685168",
+                            "latitude": "-26.27896902271262",
+                            "altitude": "0",
+                            "heading": "-8.054715872778512",
+                            "tilt": "19.14269253263107",
+                            "range": "500.8113829741662",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_square100",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79744632652004,-26.2795801884984,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 27",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.79646362685168",
+                            "latitude": "-26.27896902271262",
+                            "altitude": "0",
+                            "heading": "-8.054715872778512",
+                            "tilt": "19.14269253263107",
+                            "range": "500.8113829741662",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_square100",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79745900380282,-26.27957207994035,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 28",
+                        "Placemark": {
+                          "Camera": {
+                            "longitude": "-48.79719356248134",
+                            "latitude": "-26.2803789422049",
+                            "altitude": "345.7880944087847",
+                            "heading": "-36.2191999778188",
+                            "tilt": "26.14454805199387",
+                            "roll": "4.181257771046671",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_square10",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79808108487991,-26.28004009426025,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 29",
+                        "Placemark": {
+                          "Camera": {
+                            "longitude": "-48.7982331586287",
+                            "latitude": "-26.28079735245106",
+                            "altitude": "250.0838841074382",
+                            "heading": "-36.21873968260262",
+                            "tilt": "26.1445480396372",
+                            "roll": "4.18122189948373",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_square10",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79857744364706,-26.28039061232387,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 30",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.7967741737138",
+                            "latitude": "-26.28157009974748",
+                            "altitude": "0",
+                            "heading": "-0.0005569844377644785",
+                            "tilt": "11.63765288685109",
+                            "range": "752.8142447074665",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_square001",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79738459278842,-26.28230760054189,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 31",
+                        "Placemark": {
+                          "Camera": {
+                            "longitude": "-48.79862165211979",
+                            "latitude": "-26.28073718625347",
+                            "altitude": "319.026421384886",
+                            "heading": "-34.04433127150653",
+                            "tilt": "19.19147368130592",
+                            "roll": "5.609011023036373",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_square10",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79914728587585,-26.28080885714725,0"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Rede 32",
+                        "Placemark": {
+                          "LookAt": {
+                            "longitude": "-48.79817097206195",
+                            "latitude": "-26.28227953755545",
+                            "altitude": "0",
+                            "heading": "51.02318827300883",
+                            "tilt": "11.23621117618122",
+                            "range": "1015.996313704777",
+                            "gx:altitudeMode": "relativeToSeaFloor"
+                          },
+                          "styleUrl": "#msn_donut6131",
+                          "Point": {
+                            "gx:drawOrder": "1",
+                            "coordinates": "-48.79952225008946,-26.28103050870488,0"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "name": "NAP",
+                    "description": "CAIXA DE ATENDIMENTO A CLIENTE\nGPON:\n  1x Caixa CTO\n  1x Splitter 1:16  Conectorizado (2º Nivel)\n  Alinhadores, Bandejas, etc",
+                    "Folder": [
+                      {
+                        "name": "Rede 17",
+                        "Placemark": [
+                          {
+                            "Camera": {
+                              "longitude": "-48.79195274599862",
+                              "latitude": "-26.28351978916934",
+                              "altitude": "686.2924835713318",
+                              "heading": "-101.7412057536764",
+                              "tilt": "15.37772348130461",
+                              "roll": "-1.858756838349912",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79398462125535,-26.28497336701655,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79529467874482",
+                              "latitude": "-26.28181547010967",
+                              "altitude": "0",
+                              "heading": "52.44415990613197",
+                              "tilt": "27.15890461284803",
+                              "range": "1161.302524844111",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79235247700645,-26.28455831804075,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79529467874482",
+                              "latitude": "-26.28181547010967",
+                              "altitude": "0",
+                              "heading": "52.44415990613197",
+                              "tilt": "27.15890461284803",
+                              "range": "1161.302524844111",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.7926048717181,-26.28303569403024,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79148024724025",
+                              "latitude": "-26.28193739835803",
+                              "altitude": "686.2924835713318",
+                              "heading": "-101.7414149371045",
+                              "tilt": "15.37772348130473",
+                              "roll": "-1.858756838349948",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79323233471558,-26.28177204856594,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 18",
+                        "Placemark": [
+                          {
+                            "Camera": {
+                              "longitude": "-48.79351781192921",
+                              "latitude": "-26.28338730317486",
+                              "altitude": "503.2482811298441",
+                              "heading": "167.8884826075542",
+                              "tilt": "9.61237097167454",
+                              "roll": "105.4920469740046",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79295437257602,-26.2841979108503,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79337020829696",
+                              "latitude": "-26.28504131430315",
+                              "altitude": "0",
+                              "heading": "44.94037215571554",
+                              "tilt": "14.45671288308689",
+                              "range": "1018.80426569145",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79306481313989,-26.28323659581421,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79415605973235",
+                              "latitude": "-26.2826423487865",
+                              "altitude": "0",
+                              "heading": "44.94072008800065",
+                              "tilt": "14.4560218475004",
+                              "range": "710.6075902316358",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79375246195635,-26.28215506763112,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79741804284302",
+                              "latitude": "-26.28057362819295",
+                              "altitude": "804.9117832226917",
+                              "heading": "44.14956501575053",
+                              "tilt": "5.233545337389997",
+                              "roll": "-2.700615250732877",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79480668418201,-26.28098204276774,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 19",
+                        "Placemark": [
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79634904475355",
+                              "latitude": "-26.28277432732897",
+                              "altitude": "0",
+                              "heading": "-0.0124676876964825",
+                              "tilt": "24.19040399630429",
+                              "range": "798.2289253322215",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79570202806485,-26.28422889050745,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79195274599862",
+                              "latitude": "-26.28351978916934",
+                              "altitude": "686.2924835713318",
+                              "heading": "-101.7412057536764",
+                              "tilt": "15.37772348130461",
+                              "roll": "-1.858756838349912",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79443663519709,-26.28395462333034,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79200786937953",
+                              "latitude": "-26.28279175004718",
+                              "altitude": "686.2924835713318",
+                              "heading": "-101.7411813248559",
+                              "tilt": "15.3777234813047",
+                              "roll": "-1.858756838349972",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79435326444543,-26.28253773650821,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79327125187674",
+                              "latitude": "-26.28263388445306",
+                              "altitude": "637.5878841425679",
+                              "heading": "-64.14723153568845",
+                              "tilt": "15.8572362258207",
+                              "roll": "-1.803637637592994",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79510043278279,-26.28311257668709,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 20",
+                        "Placemark": [
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79634904475355",
+                              "latitude": "-26.28277432732897",
+                              "altitude": "0",
+                              "heading": "-0.0124676876964825",
+                              "tilt": "24.19040399630429",
+                              "range": "798.2289253322215",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79725202320061,-26.28359731521846,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.7964963608581",
+                              "latitude": "-26.28224492759858",
+                              "altitude": "471.4333197487417",
+                              "heading": "-143.5403922546936",
+                              "tilt": "7.119778665395509",
+                              "roll": "-3.978616302967756",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79661036476108,-26.28324019079441,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79418707177339",
+                              "latitude": "-26.28289957053896",
+                              "altitude": "513.5997539231086",
+                              "heading": "-63.95354657553696",
+                              "tilt": "17.72644662889534",
+                              "roll": "-1.618597980480719",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79581988544216,-26.28296985223629,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79418707177339",
+                              "latitude": "-26.28289957053896",
+                              "altitude": "513.5997539231086",
+                              "heading": "-63.95354657553696",
+                              "tilt": "17.72644662889534",
+                              "roll": "-1.618597980480719",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79518171981284,-26.2820141441942,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 21",
+                        "Placemark": [
+                          {
+                            "Camera": {
+                              "longitude": "-48.79440734125059",
+                              "latitude": "-26.27891572941568",
+                              "altitude": "589.7117578220833",
+                              "heading": "-136.1287074843486",
+                              "tilt": "12.46725897270216",
+                              "roll": "-2.282939636368226",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.7955680388741,-26.27943995979552,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79632753609421",
+                              "latitude": "-26.27952061568133",
+                              "altitude": "0",
+                              "heading": "-0.01266008606451245",
+                              "tilt": "23.7026548417987",
+                              "range": "766.7788637492145",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79517333172446,-26.2790996090038,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79472639227735",
+                              "latitude": "-26.27995442432437",
+                              "altitude": "0",
+                              "heading": "-37.80365662650159",
+                              "tilt": "22.72285714900245",
+                              "range": "274.9045785888077",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin001131",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79475257870427,-26.28031757566731,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79741804284302",
+                              "latitude": "-26.28057362819295",
+                              "altitude": "804.9117832226917",
+                              "heading": "44.14956501575053",
+                              "tilt": "5.233545337389997",
+                              "roll": "-2.700615250732877",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79584539495237,-26.27992445214682,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 22",
+                        "Placemark": [
+                          {
+                            "Camera": {
+                              "longitude": "-48.79464860904585",
+                              "latitude": "-26.27525735510201",
+                              "altitude": "589.4765625046564",
+                              "heading": "-135.3925225146587",
+                              "tilt": "18.26551022249903",
+                              "roll": "-1.571927667463307",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79507341331632,-26.27611021728992,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79456245436525",
+                              "latitude": "-26.27604454719427",
+                              "altitude": "493.7590488590656",
+                              "heading": "-135.2508725484043",
+                              "tilt": "20.03466694880454",
+                              "roll": "-1.438134893883758",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.7959458525104,-26.27600890033887,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79456245436525",
+                              "latitude": "-26.27604454719427",
+                              "altitude": "493.7590488590656",
+                              "heading": "-135.2508725484043",
+                              "tilt": "20.03466694880454",
+                              "roll": "-1.438134893883758",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79504346460242,-26.27701730670277,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79612885949219",
+                              "latitude": "-26.27807247296606",
+                              "altitude": "0",
+                              "heading": "-0.01274804167338414",
+                              "tilt": "23.7026548417987",
+                              "range": "766.7788637511816",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79533549328999,-26.27753093241869,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 23",
+                        "Placemark": [
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79632753609421",
+                              "latitude": "-26.27952061568133",
+                              "altitude": "0",
+                              "heading": "-0.01266008606451245",
+                              "tilt": "23.7026548417987",
+                              "range": "766.7788637492145",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79473186459866,-26.27883070554424,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.7952979404103",
+                              "latitude": "-26.27593403560357",
+                              "altitude": "620.3892456035023",
+                              "heading": "-135.7039520344348",
+                              "tilt": "15.27275981519984",
+                              "roll": "-1.87088005736169",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79565923505326,-26.27779040708954,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79482471404302",
+                              "latitude": "-26.27630270692211",
+                              "altitude": "620.389245602086",
+                              "heading": "-135.7041615437242",
+                              "tilt": "15.27275981519976",
+                              "roll": "-1.870880057361705",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79662117855,-26.27675712551836,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79612885949219",
+                              "latitude": "-26.27807247296606",
+                              "altitude": "0",
+                              "heading": "-0.01274804167338414",
+                              "tilt": "23.7026548417987",
+                              "range": "766.7788637511816",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79633404588225,-26.27638687918018,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 24",
+                        "Placemark": [
+                          {
+                            "Camera": {
+                              "longitude": "-48.79522692265818",
+                              "latitude": "-26.27647447007628",
+                              "altitude": "523.672662054987",
+                              "heading": "-135.1683257478196",
+                              "tilt": "21.22078439651985",
+                              "roll": "-1.360996729150603",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79602104266436,-26.27814365562915,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79777917065528",
+                              "latitude": "-26.2776687276812",
+                              "altitude": "0",
+                              "heading": "-0.011489659837249",
+                              "tilt": "23.70151626457994",
+                              "range": "600.9135507312855",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79725403621752,-26.27597720479918,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79522692265818",
+                              "latitude": "-26.27647447007628",
+                              "altitude": "523.672662054987",
+                              "heading": "-135.1683257478196",
+                              "tilt": "21.22078439651985",
+                              "roll": "-1.360996729150603",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79700715992683,-26.27704342814154,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79522692265818",
+                              "latitude": "-26.27647447007628",
+                              "altitude": "523.672662054987",
+                              "heading": "-135.1683257478196",
+                              "tilt": "21.22078439651985",
+                              "roll": "-1.360996729150603",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79787851295436,-26.27609742564121,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 25",
+                        "Placemark": [
+                          {
+                            "Camera": {
+                              "longitude": "-48.7972617715829",
+                              "latitude": "-26.27766100474242",
+                              "altitude": "812.7771266849716",
+                              "heading": "-138.3412301701274",
+                              "tilt": "10.25980298005012",
+                              "roll": "3.592958410130253",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79645587011012,-26.27847303582292,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.7958342881804",
+                              "latitude": "-26.27835316417008",
+                              "altitude": "0",
+                              "heading": "-0.01235071788767515",
+                              "tilt": "23.70265484179876",
+                              "range": "916.2515865055649",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79732211590294,-26.27745382111897,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79777917065528",
+                              "latitude": "-26.2776687276812",
+                              "altitude": "0",
+                              "heading": "-0.011489659837249",
+                              "tilt": "23.70151626457994",
+                              "range": "600.9135507312855",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79818677745665,-26.27646975582784,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79790105235085",
+                              "latitude": "-26.2790912309022",
+                              "altitude": "768.4052427864995",
+                              "heading": "38.84789065318795",
+                              "tilt": "1.770725378867033",
+                              "roll": "-7.994997897123349",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79869410938708,-26.27677805418059,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 26",
+                        "Placemark": [
+                          {
+                            "LookAt": {
+                              "longitude": "-48.7968007953153",
+                              "latitude": "-26.2806069548769",
+                              "altitude": "0",
+                              "heading": "-0.01192286257701089",
+                              "tilt": "23.70265484179882",
+                              "range": "916.2515865044629",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79567996530216,-26.28107783966653,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79779402373655",
+                              "latitude": "-26.28005528681945",
+                              "altitude": "804.9117832226917",
+                              "heading": "44.14973149547518",
+                              "tilt": "5.233545337389368",
+                              "roll": "-2.70061525073334",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79686231912923,-26.27881317660514,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79774190179958",
+                              "latitude": "-26.27903830003187",
+                              "altitude": "0",
+                              "heading": "-0.01150618783376876",
+                              "tilt": "23.70151626457994",
+                              "range": "600.9135507313624",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79664504149577,-26.28000661425137,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.79746263633624",
+                              "latitude": "-26.27995612975148",
+                              "altitude": "1048.925446759346",
+                              "heading": "38.8476982179003",
+                              "tilt": "1.770725579645009",
+                              "roll": "-7.994998460759244",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79774676782867,-26.27781717839948,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 27",
+                        "Placemark": [
+                          {
+                            "Camera": {
+                              "longitude": "-48.7967909042969",
+                              "latitude": "-26.27814474850194",
+                              "altitude": "654.0697279000539",
+                              "heading": "-136.3824467377938",
+                              "tilt": "12.22419751392173",
+                              "roll": "-2.323649847108261",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79756497366045,-26.27897224362372,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79698554801349",
+                              "latitude": "-26.27852155582072",
+                              "altitude": "0",
+                              "heading": "-0.01236878697171003",
+                              "tilt": "23.70265484179863",
+                              "range": "766.7788637481204",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79847348349941,-26.27797953750347,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79767566007356",
+                              "latitude": "-26.27909707618634",
+                              "altitude": "0",
+                              "heading": "-0.008692388615056001",
+                              "tilt": "25.80893700073156",
+                              "range": "971.5939786157469",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79928240446532,-26.27705599855624,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79940305961282",
+                              "latitude": "-26.28052230733237",
+                              "altitude": "0",
+                              "heading": "-0.007927731281369973",
+                              "tilt": "25.80893700073156",
+                              "range": "971.593978619693",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79996933179804,-26.27734327615632,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 28",
+                        "Placemark": [
+                          {
+                            "Camera": {
+                              "longitude": "-48.7955774811326",
+                              "latitude": "-26.28063771223074",
+                              "altitude": "558.8406606344618",
+                              "heading": "-139.9759016158554",
+                              "tilt": "11.1885124089093",
+                              "roll": "-2.54020991842788",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79605631805257,-26.28172475355501,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.7955774811326",
+                              "latitude": "-26.28063771223074",
+                              "altitude": "558.8406606344618",
+                              "heading": "-139.9759016158554",
+                              "tilt": "11.1885124089093",
+                              "roll": "-2.54020991842788",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79699291840796,-26.28069874650877,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79940305961282",
+                              "latitude": "-26.28052230733237",
+                              "altitude": "0",
+                              "heading": "-0.007927731281369973",
+                              "tilt": "25.80893700073156",
+                              "range": "971.593978619693",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79805396903676,-26.27944491721491,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.7994892772942",
+                              "latitude": "-26.27775528155589",
+                              "altitude": "903.9173138257001",
+                              "heading": "-134.4813281353639",
+                              "tilt": "4.957245502316576",
+                              "roll": "7.422496865323425",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79913420502226,-26.27833983757579,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 29",
+                        "Placemark": [
+                          {
+                            "name": "​​​",
+                            "LookAt": {
+                              "longitude": "-48.79965949756702",
+                              "latitude": "-26.28069259169889",
+                              "altitude": "0",
+                              "heading": "-0.007814197090657034",
+                              "tilt": "25.80893700073157",
+                              "range": "971.5939786150174",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79772430394303,-26.2808856022708,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79965949756702",
+                              "latitude": "-26.28069259169889",
+                              "altitude": "0",
+                              "heading": "-0.007814197090657034",
+                              "tilt": "25.80893700073157",
+                              "range": "971.5939786150174",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79868910650068,-26.27987964542195,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79965949756702",
+                              "latitude": "-26.28069259169889",
+                              "altitude": "0",
+                              "heading": "-0.007814197090657034",
+                              "tilt": "25.80893700073157",
+                              "range": "971.5939786150174",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79966451210235,-26.27872842593149,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79965949756702",
+                              "latitude": "-26.28069259169889",
+                              "altitude": "0",
+                              "heading": "-0.007814197090657034",
+                              "tilt": "25.80893700073157",
+                              "range": "971.5939786150174",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.80058633642142,-26.2776533650143,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 30",
+                        "Placemark": [
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79965949756702",
+                              "latitude": "-26.28069259169889",
+                              "altitude": "0",
+                              "heading": "-0.007814197090657034",
+                              "tilt": "25.80893700073157",
+                              "range": "971.5939786150174",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79668314650099,-26.28201203274538,0"
+                            }
+                          },
+                          {
+                            "Camera": {
+                              "longitude": "-48.7964963608581",
+                              "latitude": "-26.28224492759858",
+                              "altitude": "471.4333197487417",
+                              "heading": "-143.5403922546936",
+                              "tilt": "7.119778665395509",
+                              "roll": "-3.978616302967756",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79739284500234,-26.28228827769201,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.8012366031889",
+                              "latitude": "-26.28132675535647",
+                              "altitude": "0",
+                              "heading": "-0.007115883658760817",
+                              "tilt": "25.80893700073159",
+                              "range": "971.5939786194991",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79776796940712,-26.28285466227424,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.8012366031889",
+                              "latitude": "-26.28132675535647",
+                              "altitude": "0",
+                              "heading": "-0.007115883658760817",
+                              "tilt": "25.80893700073159",
+                              "range": "971.5939786194991",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79878694882085,-26.28174383908664,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 31",
+                        "Placemark": [
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79927043844523",
+                              "latitude": "-26.28065313534837",
+                              "altitude": "0",
+                              "heading": "-0.007986471707910366",
+                              "tilt": "25.80893700073157",
+                              "range": "971.5939786176348",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79827817692726,-26.28132776708312,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79927043844523",
+                              "latitude": "-26.28065313534837",
+                              "altitude": "0",
+                              "heading": "-0.007986471707910366",
+                              "tilt": "25.80893700073157",
+                              "range": "971.5939786176348",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79921122073837,-26.28026274670163,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79927043844523",
+                              "latitude": "-26.28065313534837",
+                              "altitude": "0",
+                              "heading": "-0.007986471707910366",
+                              "tilt": "25.80893700073157",
+                              "range": "971.5939786176348",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.80026307035903,-26.27909815565023,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.79927043844523",
+                              "latitude": "-26.28065313534837",
+                              "altitude": "0",
+                              "heading": "-0.007986471707910366",
+                              "tilt": "25.80893700073157",
+                              "range": "971.5939786176348",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.80121883426687,-26.27800998331873,0"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Rede 32",
+                        "Placemark": [
+                          {
+                            "LookAt": {
+                              "longitude": "-48.8012366031889",
+                              "latitude": "-26.28132675535647",
+                              "altitude": "0",
+                              "heading": "-0.007115883658760817",
+                              "tilt": "25.80893700073159",
+                              "range": "971.5939786194991",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79933202923422,-26.28224363755587,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.8012366031889",
+                              "latitude": "-26.28132675535647",
+                              "altitude": "0",
+                              "heading": "-0.007115883658760817",
+                              "tilt": "25.80893700073159",
+                              "range": "971.5939786194991",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.79977241432723,-26.2806606772206,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.8012366031889",
+                              "latitude": "-26.28132675535647",
+                              "altitude": "0",
+                              "heading": "-0.007115883658760817",
+                              "tilt": "25.80893700073159",
+                              "range": "971.5939786194991",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.8007938806099,-26.2795260174021,0"
+                            }
+                          },
+                          {
+                            "LookAt": {
+                              "longitude": "-48.8012366031889",
+                              "latitude": "-26.28132675535647",
+                              "altitude": "0",
+                              "heading": "-0.007115883658760817",
+                              "tilt": "25.80893700073159",
+                              "range": "971.5939786194991",
+                              "gx:altitudeMode": "relativeToSeaFloor"
+                            },
+                            "styleUrl": "#m_ylw-pushpin0011310",
+                            "Point": {
+                              "gx:drawOrder": "1",
+                              "coordinates": "-48.80179614221183,-26.2784260233765,0"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
